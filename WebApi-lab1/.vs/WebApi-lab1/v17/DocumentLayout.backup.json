@@ -1,0 +1,172 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\infotech\\WebApi-lab1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CEE0465A-2285-4C51-A9D4-A33BF5F3B4B5}|WebApi-lab1\\WebApi-lab1.csproj|c:\\users\\infotech\\webapi-lab1\\webapi-lab1\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEE0465A-2285-4C51-A9D4-A33BF5F3B4B5}|WebApi-lab1\\WebApi-lab1.csproj|solutionrelative:webapi-lab1\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEE0465A-2285-4C51-A9D4-A33BF5F3B4B5}|WebApi-lab1\\WebApi-lab1.csproj|c:\\users\\infotech\\webapi-lab1\\webapi-lab1\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEE0465A-2285-4C51-A9D4-A33BF5F3B4B5}|WebApi-lab1\\WebApi-lab1.csproj|solutionrelative:webapi-lab1\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEE0465A-2285-4C51-A9D4-A33BF5F3B4B5}|WebApi-lab1\\WebApi-lab1.csproj|c:\\users\\infotech\\webapi-lab1\\webapi-lab1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEE0465A-2285-4C51-A9D4-A33BF5F3B4B5}|WebApi-lab1\\WebApi-lab1.csproj|solutionrelative:webapi-lab1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEE0465A-2285-4C51-A9D4-A33BF5F3B4B5}|WebApi-lab1\\WebApi-lab1.csproj|c:\\users\\infotech\\webapi-lab1\\webapi-lab1\\context\\companycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEE0465A-2285-4C51-A9D4-A33BF5F3B4B5}|WebApi-lab1\\WebApi-lab1.csproj|solutionrelative:webapi-lab1\\context\\companycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEE0465A-2285-4C51-A9D4-A33BF5F3B4B5}|WebApi-lab1\\WebApi-lab1.csproj|c:\\users\\infotech\\webapi-lab1\\webapi-lab1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CEE0465A-2285-4C51-A9D4-A33BF5F3B4B5}|WebApi-lab1\\WebApi-lab1.csproj|solutionrelative:webapi-lab1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEE0465A-2285-4C51-A9D4-A33BF5F3B4B5}|WebApi-lab1\\WebApi-lab1.csproj|c:\\users\\infotech\\webapi-lab1\\webapi-lab1\\migrations\\20250325215448_createdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEE0465A-2285-4C51-A9D4-A33BF5F3B4B5}|WebApi-lab1\\WebApi-lab1.csproj|solutionrelative:webapi-lab1\\migrations\\20250325215448_createdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEE0465A-2285-4C51-A9D4-A33BF5F3B4B5}|WebApi-lab1\\WebApi-lab1.csproj|c:\\users\\infotech\\webapi-lab1\\webapi-lab1\\webapi-lab1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{CEE0465A-2285-4C51-A9D4-A33BF5F3B4B5}|WebApi-lab1\\WebApi-lab1.csproj|solutionrelative:webapi-lab1\\webapi-lab1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEE0465A-2285-4C51-A9D4-A33BF5F3B4B5}|WebApi-lab1\\WebApi-lab1.csproj|c:\\users\\infotech\\webapi-lab1\\webapi-lab1\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CEE0465A-2285-4C51-A9D4-A33BF5F3B4B5}|WebApi-lab1\\WebApi-lab1.csproj|solutionrelative:webapi-lab1\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEE0465A-2285-4C51-A9D4-A33BF5F3B4B5}|WebApi-lab1\\WebApi-lab1.csproj|c:\\users\\infotech\\webapi-lab1\\webapi-lab1\\webapi-lab1.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{CEE0465A-2285-4C51-A9D4-A33BF5F3B4B5}|WebApi-lab1\\WebApi-lab1.csproj|solutionrelative:webapi-lab1\\webapi-lab1.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\infotech\\WebApi-lab1\\WebApi-lab1\\appsettings.json",
+              "RelativeDocumentMoniker": "WebApi-lab1\\appsettings.json",
+              "ToolTip": "C:\\Users\\infotech\\WebApi-lab1\\WebApi-lab1\\appsettings.json",
+              "RelativeToolTip": "WebApi-lab1\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-25T22:11:05.941Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "20250325215448_CreateDb.cs",
+              "DocumentMoniker": "C:\\Users\\infotech\\WebApi-lab1\\WebApi-lab1\\Migrations\\20250325215448_CreateDb.cs",
+              "RelativeDocumentMoniker": "WebApi-lab1\\Migrations\\20250325215448_CreateDb.cs",
+              "ToolTip": "C:\\Users\\infotech\\WebApi-lab1\\WebApi-lab1\\Migrations\\20250325215448_CreateDb.cs",
+              "RelativeToolTip": "WebApi-lab1\\Migrations\\20250325215448_CreateDb.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T21:54:48.958Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CompanyContext.cs",
+              "DocumentMoniker": "C:\\Users\\infotech\\WebApi-lab1\\WebApi-lab1\\Context\\CompanyContext.cs",
+              "RelativeDocumentMoniker": "WebApi-lab1\\Context\\CompanyContext.cs",
+              "ToolTip": "C:\\Users\\infotech\\WebApi-lab1\\WebApi-lab1\\Context\\CompanyContext.cs",
+              "RelativeToolTip": "WebApi-lab1\\Context\\CompanyContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T21:43:31.23Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "C:\\Users\\infotech\\WebApi-lab1\\WebApi-lab1\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "WebApi-lab1\\Controllers\\StudentController.cs",
+              "ToolTip": "C:\\Users\\infotech\\WebApi-lab1\\WebApi-lab1\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "WebApi-lab1\\Controllers\\StudentController.cs",
+              "ViewState": "AgIAAFAAAAAAAAAAAAAhwDgAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T21:18:42.033Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\infotech\\WebApi-lab1\\WebApi-lab1\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "WebApi-lab1\\Models\\Student.cs",
+              "ToolTip": "C:\\Users\\infotech\\WebApi-lab1\\WebApi-lab1\\Models\\Student.cs",
+              "RelativeToolTip": "WebApi-lab1\\Models\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T21:18:04.462Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\infotech\\WebApi-lab1\\WebApi-lab1\\Program.cs",
+              "RelativeDocumentMoniker": "WebApi-lab1\\Program.cs",
+              "ToolTip": "C:\\Users\\infotech\\WebApi-lab1\\WebApi-lab1\\Program.cs",
+              "RelativeToolTip": "WebApi-lab1\\Program.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAhwCYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T20:48:26.156Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\infotech\\WebApi-lab1\\WebApi-lab1\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "WebApi-lab1\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\infotech\\WebApi-lab1\\WebApi-lab1\\Properties\\launchSettings.json",
+              "RelativeToolTip": "WebApi-lab1\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAD4vw8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-25T21:08:16.606Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "WebApi-lab1",
+              "DocumentMoniker": "C:\\Users\\infotech\\WebApi-lab1\\WebApi-lab1\\WebApi-lab1.csproj",
+              "RelativeDocumentMoniker": "WebApi-lab1\\WebApi-lab1.csproj",
+              "ToolTip": "C:\\Users\\infotech\\WebApi-lab1\\WebApi-lab1\\WebApi-lab1.csproj",
+              "RelativeToolTip": "WebApi-lab1\\WebApi-lab1.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-25T20:47:46.164Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "WebApi-lab1.csproj",
+              "DocumentMoniker": "C:\\Users\\infotech\\WebApi-lab1\\WebApi-lab1\\WebApi-lab1.csproj",
+              "RelativeDocumentMoniker": "WebApi-lab1\\WebApi-lab1.csproj",
+              "ToolTip": "C:\\Users\\infotech\\WebApi-lab1\\WebApi-lab1\\WebApi-lab1.csproj",
+              "RelativeToolTip": "WebApi-lab1\\WebApi-lab1.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-25T20:44:44.876Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
